@@ -6,5 +6,6 @@ module GooglePrettifyRails
 	# 	# content_tag(:pre, a, class: "prettyprint")
 	# 	content_tag(:p, "hello")
 	# end
+ 	end
 
 end
