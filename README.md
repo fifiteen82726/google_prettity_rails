@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install google_prettify_rails
+    $ gem 'google_prettify_rails', :git => 'git://github.com/fifiteen82726/google_prettity_rails.git'
 
 ## Usage
 
